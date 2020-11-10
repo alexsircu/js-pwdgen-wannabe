@@ -11,5 +11,7 @@ var number = 19;
 console.log(number);
 
 document.getElementById("client-name").innerHTML = name;
+console.log(document.getElementById("client-name"))
 
 document.getElementById("password").innerHTML = name + surname + color + number;
+console.log(document.getElementById("password"))

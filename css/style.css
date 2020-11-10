@@ -1,0 +1,12 @@
+body {
+  font-family: 'Lora', serif;
+  text-align: center;
+  background-image: url("../img/sfondo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  width: 50%;
+  margin: auto;
+}
